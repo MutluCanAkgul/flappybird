@@ -1,0 +1,1 @@
+enum KusHareketi{middle,up,down}
